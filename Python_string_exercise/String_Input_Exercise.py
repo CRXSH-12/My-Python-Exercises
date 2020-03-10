@@ -1,0 +1,5 @@
+name = input("Please enter your name: ")
+surname = input("Please enter your surname: ")
+age = input("Please enter your age: ")
+person = ("Hi I'm ") + name + (" ") + surname + ("and I'm ") + age + (" years old")
+print(person)
